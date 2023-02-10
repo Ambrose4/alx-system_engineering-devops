@@ -1,2 +1,2 @@
 #!/bi/bash
-chmod -R +x .
+chmod -R +X .
