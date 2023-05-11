@@ -1,7 +1,8 @@
 ## *0x01. Shell, permissions*
 
 This repository contains scripts that demonstrate various aspects of file permissions in shell scripting.
-Scripts
+
+## *Scripts*
 
 Here is a list of scripts contained in this repository:
 
